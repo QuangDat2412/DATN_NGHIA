@@ -1,0 +1,55 @@
+.active {
+    background-color: #f0ddbb !important;
+}
+.box-player-doc {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.nav-bar-lesson {
+    background-color: #29303b;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    color: #fff !important;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px 10px 20px;
+    & > div {
+        font-size: 18px;
+        font-weight: 700;
+        margin-left: 16px;
+        overflow: hidden;
+    }
+    svg {
+        width: 35px !important;
+        margin-right: 10px;
+    }
+    .CircularProgressbar-text {
+        font-size: 30px !important;
+    }
+}
+.box {
+    height: 100vh;
+    overflow: hidden;
+}
+.box-iframe {
+    width: 100%;
+    height: 100%;
+    iframe {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.custom-collapse {
+    .ant-collapse-content-box {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .ant-list-item {
+        padding-right: 16px !important;
+        padding-left: 16px !important;
+        cursor: pointer;
+    }
+}
