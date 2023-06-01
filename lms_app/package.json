@@ -6,6 +6,7 @@
         "@ant-design/icons": "^4.7.0",
         "@ckeditor/ckeditor5-build-classic": "^34.2.0",
         "@ckeditor/ckeditor5-react": "^5.0.2",
+        "@ducanh2912/react-hls-player": "^3.3.5",
         "@reduxjs/toolkit": "^1.8.3",
         "antd": "^4.22.2",
         "axios": "^0.27.2",
