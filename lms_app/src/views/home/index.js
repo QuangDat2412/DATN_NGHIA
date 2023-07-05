@@ -122,7 +122,7 @@ const Home = () => {
                         textAlign: 'center',
                     }}
                 >
-                    Bản quyền thuộc về <a href="https://www.facebook.com/qdat99/">LQD</a>
+                    Bản quyền thuộc về <a href="">TMN</a>
                 </Footer>
             </Layout>
         </>

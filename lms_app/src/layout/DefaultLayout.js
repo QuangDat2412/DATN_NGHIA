@@ -46,7 +46,7 @@ const DefaultLayout = () => {
                     textAlign: 'center',
                 }}
             >
-                Bản quyền thuộc về <a href="https://www.facebook.com/qdat99/">LQD</a>
+                Bản quyền thuộc về <a href="">TMN</a>
             </Footer>
             <Modal visible={openModal} onCancel={closeModal} Modal title={'Chỉnh sửa thông tin'} centered footer={false} width={800} forceRender>
                 <Form form={form} name="control-hooks" onFinish={saveCourse} labelCol={{ span: 24 }} wrapperCol={{ span: 24 }}>
